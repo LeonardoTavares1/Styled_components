@@ -14,15 +14,16 @@ const Page = styled.div`
 `;
 const Container = styled.div`
 
-    height: 70%;
-    width: 50%;
+    height: 100%;
+    width: 60rem;
     background: ${backgroud};
     box-shadow: 5px 5px 10px 5px rgba(0,0,0,0.22);
-    border-radius: 50px;
+//    border-radius: 50px;
 
     display: flex;
     align-items: center;
-    justify-content: center;
+    justify-content: flex-start;
+    flex-direction: column;
     
 
 `;

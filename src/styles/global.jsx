@@ -29,3 +29,9 @@ const GlobalStyle = createGlobalStyle`
 `;
 
 export default GlobalStyle;
+
+// Celular  = 600px
+// Tablet  = 768px
+//                  -->   width
+// Laptop  = 992px
+// Desktop  = 1200px
